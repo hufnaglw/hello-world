@@ -1,2 +1,2 @@
 # hello-world
-first repository
+first repository, going through tutorial of github. Hopefully all goes well.
